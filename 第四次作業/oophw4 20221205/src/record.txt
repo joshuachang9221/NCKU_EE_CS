@@ -1,0 +1,6 @@
+NameOfPlayer1
+Flareon 1 100 5 5
+Leafeon 3 120 5 5  
+NameOfPlayer2
+Flareon 2 100 5 5
+Leafeon 1 120 5 5  
