@@ -1,0 +1,8 @@
+NameOfPlayer10
+Leafeon 2 120 5 5
+Flareon 1 120 5 5
+Vaporeon 1 105 5 5
+NameOfPlayer20
+Leafeon 1 120 5 5
+Flareon 3 100 5 5
+Vaporeon 4 105 5 5
